@@ -1,0 +1,7 @@
+{
+  "name": "Reserve and Eat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
